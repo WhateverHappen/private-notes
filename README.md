@@ -56,7 +56,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [Hibernate-idea配置](./环境配置/Hibernate-idea配置.md)
 
-##网络基础
+## 网络基础
 
 
 
