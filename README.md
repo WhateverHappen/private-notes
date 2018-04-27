@@ -26,6 +26,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 * Java基础
 * Java容器类
 * JDBC
+[JDBC连接数据库](./Java/JDBC/JDBC连接数据库.md)
 * JSP基础
 
 ## 框架
