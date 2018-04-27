@@ -23,36 +23,37 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 ## Java
 
-* Java基础
-* Java容器类
-* JDBC
++ Java基础
++ Java容器类
++ JDBC
 
-[JDBC连接数据库](./Java/JDBC/JDBC连接数据库.md)
-* JSP基础
+    - [JDBC连接数据库](./Java/JDBC/JDBC连接数据库.md)
+    
++ JSP基础
 
 ## 框架
 
-* Hibernate
-* Spring
-* Struts2
++ Hibernate
++ Spring
++ Struts2
 
 ## 数据库
 
-* 数据库基础
-* mongodb
-* mysql
++ 数据库基础
++ mongodb
++ mysql
 
 ## 编程工具
 
-* git
-* Maven
++ git
++ Maven
 
 ## Linux
 
 ## 面试问题
 
-* J2EE
-* JVM
++ J2EE
++ JVM
 
 ## 环境配置
 
