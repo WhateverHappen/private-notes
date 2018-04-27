@@ -15,7 +15,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [Linux](#Linux)
 
-[面试问题](#面试问题)
+[Java问题](#Java问题)
 
 [环境配置](#环境配置)
 
@@ -24,7 +24,9 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 ## Java
 
 + Java基础
+
 + Java容器类
+
 + JDBC
 
     - [JDBC连接数据库](./Java/JDBC/JDBC连接数据库.md)
@@ -34,30 +36,42 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 ## 框架
 
 + Hibernate
+
 + Spring
+
 + Struts2
 
 ## 数据库
 
 + 数据库基础
+
 + mongodb
+
 + mysql
 
 ## 编程工具
 
 + git
+
 + Maven
 
 ## Linux
 
-## 面试问题
+## Java问题
 
 + J2EE
+
+    - [九种基本数据类型的大小，以及他们的封装类](./Java问题/J2EE/九种基本数据类型的大小，以及他们的封装类.md)
+    
+    - [Switch能否用String做参数？](./Java问题/J2EE/Switch能否用String做参数？.md)
+    
+    - [equal与==的区别](./Java问题/J2EE/equal与==的区别.md)
+    
 + JVM
 
 ## 环境配置
 
-[Hibernate-idea配置](./环境配置/Hibernate-idea配置.md)
+* [Hibernate-idea配置](./环境配置/Hibernate-idea配置.md)
 
 ## 网络基础
 
