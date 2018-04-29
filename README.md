@@ -67,6 +67,10 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     
     - [equal与==的区别](./Java问题/J2EE/equal与==的区别.md)
     
+    - [java中的缓冲池](./Java问题/J2EE/java中的缓冲池.md)
+    
+    - [Object有哪些公用方法](./Java问题/J2EE/Object有哪些公用方法.md)
+    
 + JVM
 
 ## 环境配置
