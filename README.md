@@ -45,6 +45,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 + 数据库基础
 
+    - [sql的几种连接方式](./数据库/数据库基础/sql的几种连接方式.md)
+
 + mongodb
 
 + mysql
