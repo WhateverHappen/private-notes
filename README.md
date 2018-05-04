@@ -111,6 +111,12 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 ## 网络基础
 
+* [get和post](./网络基础/get和post.md)
+
+* [TCP三次握手](./网络基础/TCP三次握手.md)
+
+* [TCP四次挥手](./网络基础/TCP四次挥手.md)
+
 
 
 
