@@ -33,6 +33,12 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     
 + JSP基础
 
++ JVM
+
+    - [Java运行时数据区域](./Java/JVM/Java运行时数据区域.md)
+    
+    - [内存管理参数](./Java/JVM/内存管理参数.md)
+
 ## 框架
 
 + Hibernate
