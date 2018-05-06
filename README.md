@@ -38,6 +38,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [Java运行时数据区域](./Java/JVM/Java运行时数据区域.md)
     
     - [内存管理参数](./Java/JVM/内存管理参数.md)
+    
+    - [判断对象何时回收](./Java/JVM/判断对象何时回收.md)
 
 ## 框架
 
