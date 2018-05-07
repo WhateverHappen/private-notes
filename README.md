@@ -40,6 +40,10 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [内存管理参数](./Java/JVM/内存管理参数.md)
     
     - [判断对象何时回收](./Java/JVM/判断对象何时回收.md)
+    
+    - [垃圾收集算法](./Java/JVM/垃圾收集算法.md)
+    
+    - [空间分配担保](./Java/JVM/空间分配担保.md)
 
 ## 框架
 
