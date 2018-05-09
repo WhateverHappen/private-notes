@@ -44,6 +44,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [垃圾收集算法](./Java/JVM/垃圾收集算法.md)
     
     - [空间分配担保](./Java/JVM/空间分配担保.md)
+    
+    - [内存分配与回收](./Java/JVM/内存分配与回收.md)
 
 ## 框架
 
