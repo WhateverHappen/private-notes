@@ -30,7 +30,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 + JDBC
 
     - [JDBC连接数据库](./Java/JDBC/JDBC连接数据库.md)
-    
+
 + JSP基础
 
 + JVM
@@ -46,6 +46,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [空间分配担保](./Java/JVM/空间分配担保.md)
     
     - [内存分配与回收](./Java/JVM/内存分配与回收.md)
+    
+    - [类加载机制](./Java/JVM/类加载机制.md)
 
 ## 框架
 
