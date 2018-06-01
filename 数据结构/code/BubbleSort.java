@@ -1,5 +1,8 @@
 /**
  * Created by thanatos on 2018/5/30.
+ * <p>
+ * 冒泡排序
+ * 最好O(n),平均O(n^2)，最坏O(n^2)，稳定
  */
 public class BubbleSort {
     public static void main(String[] args) {
@@ -17,6 +20,10 @@ public class BubbleSort {
      * @param arr 待排序数组
      */
     public static void bubbleSort1(int[] arr) {
+        if (null == arr || 0 == arr.length) {
+            return;
+        }
+
         for (int i = arr.length; i > 0; i--) {
             for (int j = 1; j < i; j++) {
                 if (arr[j - 1] > arr[j]) {  //前面的数字大于后面的数字就交换
