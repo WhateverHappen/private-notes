@@ -23,6 +23,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [各种错误](#各种错误)
 
+[数据结构](#数据结构)
+
 ## Java
 
 + Java基础
@@ -143,5 +145,6 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 + idea
     - [web.xml报错 Servlet should have a mapping](./各种错误/idea/web.xml报错%20Servlet%20should%20have%20a%20mapping.md)
 
-
+##数据结构
+* [数据结构八大排序算法](./数据结构/数据结构八大排序算法.md)
 
