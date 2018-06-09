@@ -1,8 +1,8 @@
 Java虚拟机在执行Java程序的过程中会把他所管理的内存划分为若干个不同的数据区域。根据《Java 虚拟机规范(Java SE 7版)》规定， Java虚拟机所管理的内存将会包括以下几个运行时数据区域，如图：
 
-![1525526112020](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\Java\JVM\1525526112020.png)
+![1525526112020](1525526112020.png)
 
-![img](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\Java\JVM\908514-20160728214131481-348733061.jpg) 
+![img](908514-20160728214131481-348733061.jpg) 
 
 # 程序计数器
 

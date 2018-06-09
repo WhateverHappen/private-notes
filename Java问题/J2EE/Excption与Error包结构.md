@@ -1,6 +1,6 @@
 #Java异常架构图
 
-![1525066246090](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\Java问题\J2EE\1525066246090.png)
+![1525066246090](1525066246090.png)
 
 1. Throwable
 

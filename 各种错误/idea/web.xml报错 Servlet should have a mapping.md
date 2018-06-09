@@ -1,6 +1,6 @@
 配置springmvc时，报错，实际mapping已经写了，错误截图如下： 
 
-![img](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\各种错误\idea\20170218141126251.png) 
+![img](20170218141126251.png) 
 
 后来发现是工程的web.xml位置配置错误，因为我之前换过根目录位置。  
 
@@ -8,4 +8,4 @@
 
 打开Project Structure界面，Modules>Web>Deployment descriptor，修改正确的位置即可，如下图： 
 
-![è¿éåå¾çæè¿°](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\各种错误\idea\20170218141528576.png) 
+![è¿éåå¾çæè¿°](20170218141528576.png) 

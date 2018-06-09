@@ -12,11 +12,11 @@ ArrayList、Vector：数组
 
 
 
-ArrayList和Vector是采用<font color = red>**数组方式存储数据，**</font>此数组元素数大于实际存储的数据以便增加插入元素，都允许直接序号索引元素，但是插入数据要涉及到数组元素移动等内存操作，所以插入数据慢，查找有下标，所以查询数据快，<font color = red>**Vector由于使用了synchronized方法，线程安全，所以性能上比ArrayList要差；**</font>LinkedList使用双向链表实现存储，按序号索引数据需要进行向前或向后遍历，但是插入数据时只需要记录本项前后项即可，插入数据较快。
+ArrayList和Vector是采用**数组方式存储数据**,此数组元素数大于实际存储的数据以便增加插入元素，都允许直接序号索引元素，但是插入数据要涉及到数组元素移动等内存操作，所以插入数据慢，查找有下标，所以查询数据快**,Vector由于使用了synchronized方法，线程安全，所以性能上比ArrayList要差**;LinkedList使用双向链表实现存储，按序号索引数据需要进行向前或向后遍历，但是插入数据时只需要记录本项前后项即可，插入数据较快。
 
 线性表、链表、哈希表是常用的数据结构，在进行Java开发时，JDK已经为我们提供了一系列相应的类实现基本的数据结构，这些结构均在java.util包中
 
-![1525062698441](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\Java问题\J2EE\1525062698441.png)
+![1525062698441](1525062698441.png)
 
 # Collection接口
 
@@ -37,11 +37,11 @@ while(it.hasNext()){
 
 ## List接口
 
-List是有序的Collection，使用此接口能够精确的控制每个元素插入的位置。<font color = red>**用户能够使用索引（元素在List中的位置，类似于数组下标）来访问List中的元素，**</font>类似于Java数组。
+List是有序的Collection，使用此接口能够精确的控制每个元素插入的位置。**用户能够使用索引（元素在List中的位置，类似于数组下标）来访问List中的元素**，类似于Java数组。
 
 List允许有相同的元素。除了具有Collection接口必备的iterator（）方法以外，List还提供一个listIterator（）方法，返回一个ListIterator接口，和标准的Iterator接口相比，ListIterator多了一些add（）之类的方法，允许添加，删除，设定元素，还能向前或向后遍历。
 
-实现List接口的常用类有<font color = red>**LinkedList，ArrayList，Vector和Stack。**</font>
+实现List接口的常用类有**LinkedList，ArrayList，Vector和Stack**。
 
 ### ArrayList类
 
@@ -67,11 +67,11 @@ Hashtable继承Map接口，实现一个key-value映射的哈希表。任何非�
 
 Hashtable通过initial capacity和load factor两个参数调整性能。通常缺省的load factor 0.75较好地实现了时间和空间的均衡。增大load factor可以节省空间但相应的查找时间将增大，这会影响像get和put这样的操作。
 
-<font color = red>**Hashtable是同步的。**</font>
+**Hashtable是同步的。**
 
 ### HashMap
 
-HashMap和Hashtable类似，不同之处在于HashMap是<font color = red>**非同步**</font>的，并且允许null，即null value和null key。但是将HashMap视为Collection时（value（）方法可返回Collection），其迭代子操作时间开销和HashMap的容量成正比。因此，如果迭代操作的性能相当重要，不要讲HashMap的初始化容量设得过高，或者load factor过低。
+HashMap和Hashtable类似，不同之处在于HashMap是**非同步**的，并且允许null，即null value和null key。但是将HashMap视为Collection时（value（）方法可返回Collection），其迭代子操作时间开销和HashMap的容量成正比。因此，如果迭代操作的性能相当重要，不要讲HashMap的初始化容量设得过高，或者load factor过低。
 
 ### WeakHashMap类
 

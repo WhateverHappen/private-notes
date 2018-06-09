@@ -23,9 +23,9 @@ public class Test{
 
 此时的输出结果为：finally块执行：2   1
 
-可以看到上面程序中finally块已经执行了，而且程序执行finally块时已经把x变量增加到2了。但test（）方法返回的依然是1，这就是由return语句执行流程决定的，<font color=red>**Java会把return语句先执行完，把所有需要处理的东西都县处理完成，需要返回的值也都准备好之后，但是还未返回之前，程序流程会转去执行finally块，**</font>但此时finally块中的对x变量的修改已经不会影响return要返回的值了。
+可以看到上面程序中finally块已经执行了，而且程序执行finally块时已经把x变量增加到2了。但test（）方法返回的依然是1，这就是由return语句执行流程决定的，**Java会把return语句先执行完，把所有需要处理的东西都县处理完成，需要返回的值也都准备好之后，但是还未返回之前，程序流程会转去执行finally块**，但此时finally块中的对x变量的修改已经不会影响return要返回的值了。
 
-<font color=red>**如果finally中包含return语句，则try或者catch语句块中的return将无法达到。**</font>
+**如果finally中包含return语句，则try或者catch语句块中的return将无法达到。**
 
 ```
 public class Test{

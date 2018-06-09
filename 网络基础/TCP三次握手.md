@@ -14,7 +14,7 @@
 
 所谓三次握手(Three-Way Handshake)即建立TCP连接，就是指建立一个TCP连接时，需要客户端和服务端总共发送3个包以确认连接的建立。在socket编程中，这一过程由客户端执行connect来触发，整个流程如下图所示：
 
-![img](D:\Idea\IntelliJ IDEA 2017.1.1\workspace\private-notes\网络基础\20170309185827079.png)
+![img](./20170309185827079.png)
 
 1. 第一次握手：Client将标志位SYN置为1，随机产生一个值seq=J，并将该数据包发送给Server，CLient进入SYN_SENT状态，等待Server确认。
 2. 第二次握手：Server收到数据包后，由标志位SYN=1知道Client请求建立连接，Server将标志位SYN和ACK都置为1，ack=J+1，随机产生一个值seq=K，并将该数据包发送给Client以确认连接请求，Server进入SYN_RCVD状态。
