@@ -141,10 +141,13 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 * [拓扑结构](./网络基础/拓扑结构.md)
 
-##各种错误
+## 各种错误
 + idea
     - [web.xml报错 Servlet should have a mapping](./各种错误/idea/web.xml报错%20Servlet%20should%20have%20a%20mapping.md)
+    
++ mybatis
+    - [Mybatis中resultType个别字段获取数据为null](./各种错误/mybatis/Mybatis中resultType个别字段获取数据为null.md)
 
-##数据结构
+## 数据结构
 * [数据结构八大排序算法](./数据结构/数据结构八大排序算法.md)
 
