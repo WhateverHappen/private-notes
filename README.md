@@ -52,6 +52,10 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [内存分配与回收](./Java/JVM/内存分配与回收.md)
     
     - [类加载机制](./Java/JVM/类加载机制.md)
+    
+    - [静态分配和动态分配](./Java/JVM/静态分配和动态分配.md)
+    
+    - [双亲委派模型](./Java/JVM/双亲委派模型.md)
 
 ## 框架
 
