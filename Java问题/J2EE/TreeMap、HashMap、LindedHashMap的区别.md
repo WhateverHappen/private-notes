@@ -8,6 +8,10 @@ HashMap是一个最常用的Map，他根据键的hashCode值存储数据，根�
 
 TreeMap实现SortMap接口，能够把它保存的记录根据键排序，默认是按键值得升序排序，也可以指定排序的比较器，当用Iterator遍历TreeMap时，得到的记录是排过序的。
 
+TreeMap基于**红黑树**实现，该映射根据**其键的自然顺序进行排序**，或者根据**创建映射时提供的Comparator进行排序**。
+
+TreeMap是**非同步**的。
+
 TreeMap取出来的是排序后的键值对。
 
 由于TreeMap需要排序，所以需要一个Comparator为键值进行大小比较。当然也是用Comparator定位的。
