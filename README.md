@@ -25,6 +25,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [数据结构](#数据结构)
 
+[分布式](#分布式)
+
 ## Java
 
 + Java基础
@@ -135,6 +137,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 * [Hibernate-idea配置](./环境配置/Hibernate-idea配置.md)
 
+* [Ubuntu搭建zookeeper集群](./环境配置/Ubuntu搭建zookeeper集群.md)
+
 ## 网络基础
 
 * [get和post](./网络基础/get和post.md)
@@ -154,4 +158,10 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 ## 数据结构
 * [数据结构八大排序算法](./数据结构/数据结构八大排序算法.md)
+
+## 分布式
++ zookeeper
+    - [zookeeper简介](./分布式/zookeeper/zookeeper简介.md)
+    
+    - [zookeeper为什么最好配置奇数台](./分布式/zookeeper/zookeeper为什么最好配置奇数台.md)
 
