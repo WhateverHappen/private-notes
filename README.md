@@ -27,6 +27,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [分布式](#分布式)
 
+[设计原则与设计模式](#设计原则与设计模式)
+
 ## Java
 
 + Java基础
@@ -113,7 +115,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     
     - [try catch finally，try里有return，finally还执行么？](./Java问题/J2EE/try%20catch%20finally，try里有return，finally还执行么？.md)
     
-    - [Excption与Error包结构](./Java问题/J2EE/Excption与Error包结构.md)
+    - [Exception与Error包结构](./Java问题/J2EE/Exception与Error包结构.md)
     
     - [Java面向对象的三个特征与含义](./Java问题/J2EE/Java面向对象的三个特征与含义.md)
     
@@ -165,3 +167,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     
     - [zookeeper为什么最好配置奇数台](./分布式/zookeeper/zookeeper为什么最好配置奇数台.md)
 
+## 设计原则与设计模式
++ 6大设计原则
+    - [开闭原则](./设计原则与设计模式/6大设计原则/开闭原则.md)
+
++ 23种设计模式
