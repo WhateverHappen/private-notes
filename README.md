@@ -89,6 +89,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 ## 环境配置
 * [Hibernate-idea配置](环境配置/Hibernate-idea配置.md)
 * [Ubuntu搭建zookeeper集群](环境配置/Ubuntu搭建zookeeper集群.md)
+* [mysql远程连接配置](环境配置/mysql远程连接配置.md)
 ## 网络基础
 * [get和post](网络基础/get和post.md)
 * [TCP三次握手](网络基础/TCP三次握手.md)
