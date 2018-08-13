@@ -110,6 +110,9 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 + zookeeper
     - [zookeeper简介](分布式/zookeeper/zookeeper简介.md)
     - [zookeeper为什么最好配置奇数台](分布式/zookeeper/zookeeper为什么最好配置奇数台.md)
++ nginx
+    - [nginx的负载均衡](分布式/nginx/nginx的负载均衡.md)
+    - [location匹配规则](分布式/nginx/location匹配规则.md)
 ## 设计原则与设计模式
 + 6大设计原则
     - [开闭原则](设计原则与设计模式/6大设计原则/开闭原则.md)
