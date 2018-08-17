@@ -99,6 +99,9 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 * [TCP四次挥手](网络基础/TCP四次挥手.md)
 * [拓扑结构](网络基础/拓扑结构.md)
 ## 操作系统
+* [死锁](操作系统/死锁.md)
+* [存储管理技术](操作系统/存储管理技术.md)
+* [页面调度算法](操作系统/页面调度算法.md)
 ## 各种错误
 + idea
     - [web.xml报错 Servlet should have a mapping](各种错误/idea/web.xml报错%20Servlet%20should%20have%20a%20mapping.md)
