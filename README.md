@@ -109,6 +109,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [Mybatis中resultType个别字段获取数据为null](各种错误/mybatis/Mybatis中resultType个别字段获取数据为null.md)
 ## 数据结构
 * [数据结构八大排序算法](数据结构/数据结构八大排序算法.md)
+* [最小生成树](数据结构/最小生成树.md)
 ## 分布式
 + zookeeper
     - [zookeeper简介](分布式/zookeeper/zookeeper简介.md)
