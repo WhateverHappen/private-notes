@@ -111,6 +111,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 ## 数据结构
 * [数据结构八大排序算法](数据结构/数据结构八大排序算法.md)
 * [最小生成树](数据结构/最小生成树.md)
+* [几种常见的查找算法](数据结构/几种常见的查找算法.md)
 ## 分布式
 + zookeeper
     - [zookeeper简介](分布式/zookeeper/zookeeper简介.md)
