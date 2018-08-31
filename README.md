@@ -103,6 +103,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 * [存储管理技术](操作系统/存储管理技术.md)
 * [页面调度算法](操作系统/页面调度算法.md)
 * [磁盘调度算法](操作系统/磁盘调度算法.md)
+* [作业调度算法](操作系统/作业调度算法.md)
 ## 各种错误
 + idea
     - [web.xml报错 Servlet should have a mapping](各种错误/idea/web.xml报错%20Servlet%20should%20have%20a%20mapping.md)
