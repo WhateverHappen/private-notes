@@ -15,7 +15,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 
 [Linux](#Linux)
 
-[Java问题](#Java问题)
+[Java面试问题](#Java面试问题)
 
 [环境配置](#环境配置)
 
@@ -62,7 +62,8 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 + git
 + Maven
 ## Linux
-## Java问题
+- [硬链接和软链接](Linux/硬链接和软链接.md)
+## Java面试问题
 + J2EE
     - [九种基本数据类型的大小，以及他们的封装类](Java问题/J2EE/九种基本数据类型的大小，以及他们的封装类.md)
     - [Switch能否用String做参数？](Java问题/J2EE/Switch能否用String做参数？.md)

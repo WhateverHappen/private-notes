@@ -6,7 +6,6 @@
 public class BinarySearch {
     public static void main(String[] args) {
         int[] array = {6, 2, 4, 1, 5, 9};
-
     }
 
     /**
