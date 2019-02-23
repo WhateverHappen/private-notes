@@ -63,6 +63,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
 + Maven
 ## Linux
 - [硬链接和软链接](Linux/硬链接和软链接.md)
+- [shell中的条件判断](Linux/shell中的条件判断.md)
 ## Java面试问题
 + J2EE
     - [九种基本数据类型的大小，以及他们的封装类](Java问题/J2EE/九种基本数据类型的大小，以及他们的封装类.md)
