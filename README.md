@@ -49,6 +49,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [双亲委派模型](Java/JVM/双亲委派模型.md)
     - [内存泄漏](Java/JVM/内存泄漏.md)
     - [内存溢出](Java/JVM/内存溢出.md)
+    - [Java内存模型](Java/JVM/Java内存模型.md)
 ## 框架
 + Hibernate
 + Spring
