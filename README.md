@@ -88,6 +88,7 @@ Java, Linux, Algorithm, Environmental configuration, etc.
     - [java实现多线程的两种方法](Java问题/J2EE/java实现多线程的两种方法.md)
     - [线程同步的方法](Java问题/J2EE/线程同步的方法.md)
     - [锁的等级：方法锁、对象锁、类锁](Java问题/J2EE/锁的等级：方法锁、对象锁、类锁.md)
+    - [Java锁的分类](Java问题/J2EE/Java锁的分类.md)
 + JVM
 ## 环境配置
 * [Hibernate-idea配置](环境配置/Hibernate-idea配置.md)
